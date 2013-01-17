@@ -1,0 +1,31 @@
+{
+	"name": "noop",
+	"title": "jQuery Noop",
+	"description": "The smallest plugin ever",
+	"keywords": [
+		"utility",
+		"helper"
+	],
+	"version": "1.0.0",
+	"author": {
+		"name": "Vladimir Kuznetsov",
+		"email": "mistakster@gmail.com",
+		"url": "https://github.com/mistakster"
+	},
+	"maintainers": [
+		{
+			"name": "Vladimir Kuznetsov",
+			"email": "mistakster@gmail.com",
+			"url": "https://github.com/mistakster"
+		}
+	],
+	"licenses": [
+		{
+			"url": "http://creativecommons.org/licenses/by/3.0/"
+		}
+	],
+	"homepage": "http://noteskeeper.ru/381/",
+	"dependencies": {
+		"jquery": ">=1.0.0"
+	}
+}
