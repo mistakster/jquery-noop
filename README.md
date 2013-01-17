@@ -22,4 +22,4 @@
 # Оригинальная идея
 
 Плагин сделан под вдохновением от [твита](https://twitter.com/artpolikarpov/statuses/159653096606273536)
-Артёма Поликарпова.
+[Артёма Поликарпова](https://github.com/artpolikarpov).
